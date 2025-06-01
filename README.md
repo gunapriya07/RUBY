@@ -1,48 +1,83 @@
-# Ruby Learning Roadmap
+# My Ruby Learning Journey
 
-This repository contains my day-by-day learning journey and exercises for Ruby programming, covering basics to intermediate concepts with hands-on tasks and assessments.
-
----
-
-## Overview
-
-This plan is designed to build a strong foundation in Ruby programming over 10 days, progressing from basic syntax and data structures to object-oriented programming, file handling, modules, error handling, and Ruby Gems.
-
-Each day includes:
-- Learning objectives
-- Reference tutorials/videos
-- Practical tasks and coding exercises
-- Pull request (PR) submissions and video assessments (where applicable)
+This is a personal log of what I accomplished each day while learning Ruby programming from basics to intermediate topics.
 
 ---
 
-## Weekly Schedule & Tasks
+## Week 1
 
-### Week 1 - Ruby Fundamentals
+### Day 1
+- Installed Ruby and VS Code on my machine.
+- Used the IRB terminal to try out Ruby commands.
+- Wrote my first Ruby program `hello.rb` that prints a message and works with variables.
+- Pushed `hello.rb` to GitHub with a screenshot of the terminal.
+- Joined the daily standup meeting.
 
-| Day | Topics Covered                                         | Reference / Tutorial                                  | Tasks                                                    | Deliverables                                  |
-|------|------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------|
-| 1    | - Install Ruby & VS Code <br> - Use IRB terminal <br> - Write `hello.rb` <br> - Variables, `puts` | Ruby Programming Tutorial for Beginners (0:00–40:00) | - Install Ruby & VS Code <br> - Run IRB commands <br> - Create simple Ruby program printing personal info | - `hello.rb` pushed <br> - PR with terminal screenshot <br> - Join standup |
-| 2    | - Data types <br> - Conditionals (`if`, `elsif`, `else`) <br> - Loops (`while`, `for`, `.each`) | Ruby Programming Tutorial for Beginners (28:32)      | Build grading system using conditionals and loops         | - `grading_system.rb` on GitHub <br> - PR with explanation |
-| 3    | - Arrays & Hashes <br> - `.each`, `.map`, `.select` <br> - Nested collections | Ruby Programming Tutorial for Beginners (1:12:45)    | - Create contact list (array of hashes) <br> - Print contacts using iteration <br> - Record 5-10 min video assessment (Day 1 & 2 topics) | - `contacts.rb` pushed <br> - PR + 3-min video assessment |
-| 4    | - Classes and objects <br> - `initialize` method <br> - `attr_accessor` | Ruby Programming Tutorial for Beginners (3:14:29)    | Create `Book` class with attributes and summary method   | - `book.rb` on GitHub <br> - PR with explanation           |
-| 5    | - File handling (`File.read`, `File.write`) <br> - Using gems & Bundler <br> - Git workflow in Ruby context | Ruby Programming                                      | - Write/read notes file <br> - Use `colorize` gem <br> - Git commits with Ruby files | - `file_demo.rb` + `Gemfile` <br> - PR showing file output & gem use |
-| 6    | - Methods & functions <br> - Default & keyword arguments <br> - Method chaining | Ruby Programming                                      | - Write billing method with optional discounts <br> - Use keyword arguments <br> - Record 5-10 min video assessment (Day 3,4,5 topics) | - `billing.rb` pushed <br> - PR + 3-min video assessment |
+### Day 2
+- Learned about Ruby data types and conditionals (`if`, `elsif`, `else`).
+- Practiced loops like `while`, `for`, and `.each`.
+- Built a simple grading system using conditionals and loops.
+- Pushed `grading_system.rb` to GitHub with explanations.
+
+### Day 3
+- Explored arrays and hashes in Ruby.
+- Practiced iteration methods like `.each`, `.map`, and `.select`.
+- Created a contact list using an array of hashes.
+- Printed the contacts with iteration.
+- Recorded a 5-10 minute video assessment covering topics from Day 1 and 2.
+- Pushed `contacts.rb` and video assessment.
+
+### Day 4
+- Learned about classes and objects in Ruby.
+- Created a `Book` class with attributes and a summary method.
+- Used the `initialize` method and `attr_accessor` for properties.
+- Pushed `book.rb` with explanations.
+
+### Day 5
+- Practiced file handling with `File.read` and `File.write`.
+- Installed and used the `colorize` gem with Bundler.
+- Applied git workflows with Ruby files.
+- Pushed `file_demo.rb` and `Gemfile`, showing gem usage and file output.
+
+### Day 6
+- Created methods with default and keyword arguments.
+- Practiced method chaining.
+- Wrote a billing method supporting optional discounts.
+- Recorded a 5-10 minute video assessment covering Days 3, 4, and 5.
+- Pushed `billing.rb` and video assessment.
 
 ---
 
-### Week 2 - Ruby in Action
+## Week 2
 
-Level up with object-oriented programming, file I/O, and modular coding. Learn how to write clean, reusable code and manage your Ruby projects effectively.
+### Day 7
+- Added exception handling using `begin-rescue-end` blocks.
+- Used debugging tools like `pry` to troubleshoot code.
+- Updated previous scripts with error handling.
+- Pushed updated scripts with error examples.
 
-| Day | Topics Covered                                         | Reference / Tutorial                                  | Tasks                                                    | Deliverables                                  |
-|------|------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------|
-| 7    | - Exception handling (`begin-rescue-end`) <br> - Debugging basics | Ruby Exception Handling Tutorial                      | - Add error handling to previous scripts <br> - Use debugging with `pry` | - Updated scripts with rescue blocks <br> - PR with error examples |
-| 8    | - Blocks, Procs, and Lambdas <br> - Enumerables       | Ruby Blocks and Procs Explained <br> Enumerables in Ruby | - Use blocks in iteration <br> - Create and call Procs and Lambdas | - `blocks.rb` pushed <br> - PR with explanation |
-| 9    | - Modules and Mixins <br> - Namespaces                 | Ruby Modules Tutorial                                 | - Create module for shared behavior <br> - Include module in classes <br> - Record 5-10 min video assessment (Day 6,7,8 topics) | - `modules.rb` pushed <br> - PR with explanation |
-| 10   | - Ruby Gems ecosystem overview <br> - Create and publish simple gem (overview) | Creating Ruby Gems <br> Bundler and Gems Overview    | - Use a gem in project <br> - Create gemspec file        | - PR with explanation                          |
+### Day 8
+- Learned about blocks, Procs, and Lambdas.
+- Practiced using blocks in iteration.
+- Created and called Procs and Lambdas.
+- Pushed `blocks.rb` with explanations.
+
+### Day 9
+- Explored modules, mixins, and namespaces.
+- Created reusable modules and included them in classes.
+- Recorded a 5-10 minute video assessment covering Days 6, 7, and 8.
+- Pushed `modules.rb` and video.
+
+### Day 10
+- Learned about the Ruby Gems ecosystem.
+- Used a gem in my project.
+- Created a gemspec file for packaging.
+- Submitted a PR with explanations.
 
 ---
 
-*Happy Coding! 🚀*
+I’m proud of my progress so far and excited to keep learning more Ruby and build interesting projects!
 
+---
+
+*Thanks for following my journey!*
