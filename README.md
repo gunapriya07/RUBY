@@ -74,7 +74,7 @@ This is a personal log of what I accomplished each day while learning Ruby progr
 - Created a gemspec file for packaging.
 - Submitted a PR with explanations.
 
-  ## DAY 10 AND DAY 11  IN THIS REPO (https://github.com/gunapriya07/hello_rails)
+  ## DAY 11 AND DAY 10  IN THIS REPO (https://github.com/gunapriya07/hello_rails)
 
 ###  Day 11: Rails Introduction & Setup
 
