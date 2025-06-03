@@ -74,6 +74,41 @@ This is a personal log of what I accomplished each day while learning Ruby progr
 - Created a gemspec file for packaging.
 - Submitted a PR with explanations.
 
+  ## DAY 10 AND DAY 11  IN THIS REPO (https://github.com/gunapriya07/hello_rails)
+
+###  Day 11: Rails Introduction & Setup
+
+**Topics Covered:**
+- Introduction to Rails
+- Setting up Rails environment
+
+**Activities Completed:**
+- Installed Ruby and Rails
+- Created a `hello_rails` starter app
+- Pushed basic Rails app to GitHub
+- Took and uploaded a running app screenshot
+
+**Resources Used:**
+- 📺 *Rails Tutorial for Beginners (1:30 hr)*
+
+---
+
+### Day 12: MVC Architecture & Bootstrap Integration
+
+**Topics Covered:**
+- Understanding the MVC Architecture in Rails
+- Building a full Todo CRUD app using MVC pattern
+- Styling Rails views using Bootstrap 5
+
+**Activities Completed:**
+- Created a model (`Todo`), controller, and views manually using Rails scaffold
+- Rendered dynamic content with ERB
+- Integrated Bootstrap 5 via Importmap
+- Styled forms, buttons, alerts, and layouts
+
+---
+
+
 ---
 
 I’m proud of my progress so far and excited to keep learning more Ruby and build interesting projects!
