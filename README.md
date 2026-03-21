@@ -114,5 +114,4 @@ This is a personal log of what I accomplished each day while learning Ruby progr
 I’m proud of my progress so far and excited to keep learning more Ruby and build interesting projects!
 
 ---
-
 *Thanks for following my journey!*
