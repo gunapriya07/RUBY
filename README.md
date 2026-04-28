@@ -88,9 +88,6 @@ This is a personal log of what I accomplished each day while learning Ruby progr
 - Pushed basic Rails app to GitHub
 - Took and uploaded a running app screenshot
 
-**Resources Used:**
--  *Rails Tutorial for Beginners (1:30 hr)*
-
 ---
 
 ### Day 12: MVC Architecture & Bootstrap Integration
